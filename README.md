@@ -10,10 +10,10 @@ For Cordova:
 $ cordova plugin add https://github.com/ghybs/cordova-plugin-spawnsync.git
 ```
 
-For Meteor:
+For Meteor: (needs Git URL with exact commit SHA)
 
 ```bash
-$ meteor add cordova:cordova-plugin-spawnsync@https://github.com/ghybs/cordova-plugin-spawnsync.git
+$ meteor add cordova:cordova-plugin-spawnsync@https://github.com/ghybs/cordova-plugin-spawnsync.git#6ef15ee8ba258a0f678dd18bf9bec1e94e4ba0af
 ```
 
 
