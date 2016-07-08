@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-spawnsync",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Patch Node child_process.spawnSync plugin",
   "cordova": {
     "id": "cordova-plugin-spawnsync",
