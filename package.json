@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-spawnsync",
+  "version": "0.1.0",
+  "description": "Patch Node child_process.spawnSync plugin",
+  "cordova": {
+    "id": "cordova-plugin-spawnsync",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "node",
+    "child_process",
+    "spawn-sync",
+    "synchronous"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghybs/cordova-plugin-spawnsync.git"
+  },
+  "author": "Boris Seang",
+  "license": "MIT",
+  "dependencies": {
+    "spawn-sync": "^1.0.15"
+  }
+}
