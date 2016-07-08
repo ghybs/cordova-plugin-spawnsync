@@ -4,7 +4,7 @@
 
     <name>Patch Node child_process.spawnSync plugin</name>
     <description>
-        Cordova plugin to patch Node version <0.11.12 child_process with spawnSync().
+        Cordova plugin to patch Node version pre 0.11.12 child_process with spawnSync().
         Useful in combination with other Cordova plugins that use spawnSync, typically to install npm dependencies.
         Node child_process.spawnSync has been introduced in version 0.11.12, but typically Meteor 1.3 is still using Node 0.10.43.
     </description>
